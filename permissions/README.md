@@ -1,2 +1,2 @@
 #!/bin/bash
-Readme for Permissions
+README Permissions
